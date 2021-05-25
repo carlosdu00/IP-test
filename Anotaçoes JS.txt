@@ -1,0 +1,65 @@
+ Duviadas criar variavel sem var
+
+
+
+
+
+
+
+HTML e CSS
+
+JS
+
+	Sempre no final do body
+	
+
+	comentarios // ou /*    */
+
+
+Variaveis
+
+	x= null     //limpa variavel
+	null é object
+
+
+	number(variavel)
+	parseInt(var)
+	parseFloat(var)
+	String(n)
+
+
+	${}   place holder   ( usar uma variavel n meio de uma frase)
+	´meu nome é ${varnome}´
+
+String
+
+	nome_da_variavel.length  //tamanho da String
+
+Divisao inteira(resto) 5%2=1
+potencia **
+
+&& - "E" logico
+|| - "OU" lúgico
+
+Operador Ternario     media>7 ?	aprovado : reprovado
+
+
+Dom
+
+window
+	location
+	document
+		HTML
+			<head>
+				<meta>
+				<title>
+			<body>
+				<h1>
+				<p>
+					<strong>
+				<div>
+	history
+
+
+
+
