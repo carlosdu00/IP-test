@@ -1,6 +1,14 @@
+google
 8.8.8.8
+aparelho 5
 192.168.20.1
+aparelho 4
 192.168.20.2
+aparelho 3
 192.168.20.6
+aparelho 2
 192.168.20.74
+aparelho 1
 192.168.20.81
+pc do lado
+192.168.12.172
