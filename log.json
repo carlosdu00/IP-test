@@ -1,9 +1,17 @@
+{
 "enderecos":[
-{"nome":"pc do lado", "ip":"192.168.12.172", "status":"on"},
-{"nome":"aparelho 1", "ip":"192.168.20.81", "status":"off"},
-{"nome":"aparelho 2", "ip":"192.168.20.74", "status":"off"},
-{"nome":"aparelho 3", "ip":"192.168.20.6", "status":"off"},
-{"nome":"aparelho 4", "ip":"192.168.20.2", "status":"off"},
-{"nome":"aparelho 5", "ip":"192.168.20.1", "status":"off"},
-{"nome":"google", "ip":"8.8.8.8", "status":"on"},
+{"nome":"pc do lado", "ip":"192.168.12.172", "status":"on"}
+,
+{"nome":"aparelho 1", "ip":"192.168.20.81", "status":"on"}
+,
+{"nome":"aparelho 2", "ip":"192.168.20.74", "status":"on"}
+,
+{"nome":"aparelho 3", "ip":"192.168.20.6", "status":"on"}
+,
+{"nome":"aparelho 4", "ip":"192.168.20.2", "status":"on"}
+,
+{"nome":"aparelho 5", "ip":"192.168.20.1", "status":"on"}
+,
+{"nome":"google", "ip":"8.8.8.8", "status":"on"}
 ]
+}
