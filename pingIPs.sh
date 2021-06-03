@@ -1,30 +1,19 @@
 #!/bin/bash
-> log.json
+sed -i '/<pre>/d' index.html
 tamanho=`cat list.txt | wc -l`
-ip=""
 x=1
-echo "{">> log.json
 nome=""
-echo "\"enderecos\":[" >> log.json
 while [ $x -le $tamanho ]
 do
 	ip=`cat list.txt | tail -n$x| head -n 1`
 	nome=`cat list.txt | tail -n$(($x+1))| head -n 1`
-	ping -n 1 $ip > /dev/null
+	ping -n 2 $ip >/dev/null
 	if [ $? -eq 0 ]
-	
-	if [ $x -ne 1 ]
-        then
-                echo "," >> log.json
-        fi
-	
 	then
-		echo "{\"nome\":\"$nome\", \"ip\":\"$ip\", \"status\":\"on\"}" >> log.json
+		sed -i "15i <pre> <img src="iconeON.png">  status: ON      IP:$ip     $nome</pre>" index.html
+
 	else
-		echo "{\"nome\":\"$nome\", \"ip\":\"$ip\", \"status\":\"off\"}" >> log.json
+		sed -i "15i <pre> <img src="iconeOFF.png">  status: OFF     IP:$ip     $nome</pre>" index.html
 	fi
 	x=$((x+2))
 done
-echo "]" >> log.json
-echo "}" >> log.json
-
