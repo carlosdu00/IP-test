@@ -25,5 +25,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-schumacher/)](https://www.linkedin.com/in/carlos-schumacher/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos-Schumacher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-schumacher/)](https://www.linkedin.com/in/carlos-schumacher/) 
 [![Gmail Badge](https://img.shields.io/badge/-carlosdu.carloseduardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosdu.carloseduardo@gmail.com)](mailto:carlosdu.carloseduardo@gmail.com)
