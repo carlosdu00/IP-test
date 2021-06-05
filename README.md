@@ -5,7 +5,7 @@
 
 # IP-test
 
-## Ferramenta para monitorar status de uma lista de IPs.
+## Ferramenta para monitorar status de uma lista de IPs
 
 <h4 align="center">🚧Projeto em construção...🚧</h4>
 <h1 align="center">
