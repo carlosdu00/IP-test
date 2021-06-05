@@ -10,11 +10,11 @@
 <h4 align="center">🚧Projeto em construção...🚧</h4>
 
 ### Pré-requisitos - Guia para uso 
-Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP. Sem espaços em branco
+1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP. Sem espaços em branco
 
-O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 10 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
+2. O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 10 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
 
-O resultado pode ser visto pelo arquivo HTML
+3. O resultado pode ser visto pelo arquivo HTML
 
 ### Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
