@@ -6,6 +6,10 @@
 # IP-test
 
 ##ferramenta para monitorar status de uma lista de IPs
+<img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
+2021/1 " src="powershell.svg" width="650px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
+2021/1 " src="html5.svg" width="650px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
+2021/1 " src="css3.svg" width="650px">
 
 <h4 align="center">🚧Projeto em construção...🚧</h4>
 
