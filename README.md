@@ -7,12 +7,13 @@
 
 ##ferramenta para monitorar status de uma lista de IPs
 
+<h4 align="center">🚧Projeto em construção...🚧</h4>
+<h1 align="center">
 <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
 2021/1 " src="powershell.svg" width="100px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
 2021/1 " src="html5.svg" width="100px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
 2021/1 " src="css3.svg" width="100px">
-
-<h4 align="center">🚧Projeto em construção...🚧</h4>
+</h1>
 
 ### Pré-requisitos - Guia para uso
 
