@@ -26,7 +26,6 @@
 ### Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - [Git for windows](https://git-scm.com/downloads/)
-- [Wget for git bash](https://eternallybored.org/misc/wget/)
 
 ### Autor
 
