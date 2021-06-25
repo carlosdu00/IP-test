@@ -1,6 +1,6 @@
 <h1 align="center">
 <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
-2021/1 " src="media/capaGit.png" width="650px">
+2021/1 " src="media/capaGit.png" width="600px">
 </h1>
 
 # IP-Test
