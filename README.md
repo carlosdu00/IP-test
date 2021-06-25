@@ -17,7 +17,7 @@
 
 ### Pré-requisitos - Guia para uso
 
-1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP. (Sem espaços em branco)
+1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP(Sem espaços em branco e sem zeros a esquerda).
 
 2. O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 10 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
 
