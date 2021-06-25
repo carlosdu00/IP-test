@@ -1,6 +1,6 @@
 <h1 align="center">
 <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
-2021/1 " src="media/capaGit.png" width="650px">
+2021/1 " src="capaGit.png" width="650px">
 </h1>
 
 # IP-Test
@@ -10,14 +10,14 @@
 <h4 align="center">🚧Projeto em construção...🚧</h4>
 <h1 align="center">
 <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
-2021/1 " src="media/powershell.svg" width="70px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
-2021/1 " src="media/html5.svg" width="70px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
-2021/1 " src="media/css3.svg" width="70px">
+2021/1 " src="powershell.svg" width="70px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
+2021/1 " src="html5.svg" width="70px"><img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
+2021/1 " src="css3.svg" width="70px">
 </h1>
 
 ### Pré-requisitos - Guia para uso
 
-1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP(Sem espaços em branco e sem zeros a esquerda).
+1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP. (Sem espaços em branco)
 
 2. O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 10 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
 
