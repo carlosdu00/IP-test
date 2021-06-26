@@ -7,7 +7,7 @@
 
 ## Ferramenta para monitorar status de uma lista de IPs
 
-### Esse projeto é voltado para o uso em pequena escala, onde nao se tem um nomero muito extenço de IPs para serem verificados.
+<strong>Esse projeto é voltado para o uso em pequena escala, onde nao se tem um nomero muito extenço de IPs para serem verificados.</strong>
 
 <h4 align="center">🚧Projeto em construção...🚧</h4>
 <h1 align="center">
