@@ -7,6 +7,8 @@
 
 ## Ferramenta para monitorar status de uma lista de IPs
 
+<strong>Esse projeto é voltado para o uso em pequena escala, onde nao se tem um nomero muito extenço de IPs para serem verificados.</strong>
+
 <h4 align="center">🚧Projeto em construção...🚧</h4>
 <h1 align="center">
 <img alt="Logo do repositório incluindo o nome da disciplina, logo da AMF e o semestre
@@ -19,13 +21,11 @@
 
 1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP (Sem espaços em branco e sem zeros a esquerda).
 
-2. O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 10 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
+2. O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 3 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
 
 3. O resultado pode ser visto pelo arquivo HTML
 
-### Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
-- [Git for windows](https://git-scm.com/downloads/)
+4. Pressione F5 caso nem todos os endereços apareçam
 
 ### Autor
 
