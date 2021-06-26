@@ -27,10 +27,6 @@
 
 4.Pressione F5 caso nem todos os endereços apareçam
 
-### Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
-- [Git for windows](https://git-scm.com/downloads/)
-
 ### Autor
 
 
