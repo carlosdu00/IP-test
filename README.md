@@ -25,7 +25,7 @@
 
 3. O resultado pode ser visto pelo arquivo HTML
 
-4.Pressione F5 caso nem todos os endereços apareçam
+4. Pressione F5 caso nem todos os endereços apareçam
 
 ### Autor
 
