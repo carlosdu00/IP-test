@@ -21,5 +21,10 @@ footer{
     font-size: 9pt;
     margin-top: 10pt;
 }
+div#name{
+    position: relative;
+    top: -18px;
+    left: 450px;
+}
 
 

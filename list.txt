@@ -1,14 +1,14 @@
-google
+Google
 8.8.8.8
-aparelho 5
+Dispositivo 1
 192.168.20.1
-aparelho 4
+Dispositivo 2
 192.168.20.2
-TV
+Dispositivo 3
 192.168.1.255
-aparelho 2
+Dispositivo 4
 192.168.20.74
-aparelho 1
+Dispositivo 5
 192.168.20.81
-impressora
+Dispositivo 6
 192.168.0.181
