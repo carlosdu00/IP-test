@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(0, 97, 49);
+    background-image:linear-gradient(to bottom,rgb(0, 128, 64),rgb(0, 97, 49),rgb(0, 68, 34)) ;
+    background-attachment: fixed;
     font: normal 12pt Arial;
 }
 header{
