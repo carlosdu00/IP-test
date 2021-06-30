@@ -21,11 +21,13 @@
 
 1. Os IPs devem ser adicionados no arquivo list.txt no mesmo formato em que estão já, em uma linha o nome do serviço e na de baixo seu IP (Sem espaços em branco e sem zeros a esquerda).
 
-2. O script pingIPs.sh deve rodar estilo cron em um servidor a cada, por exemplo, 3 minutos. Assim ele vai atualizar o status das conexões toda vez que o script rodar
+2. Em seguida, o arquivo pingIPs.sh deve ser aberto e deve-se inserir o tempo do intervalo entre cada checagem que o programa faz em todos os IPs (o tempo deve ser inserido em minutos).
 
-3. O resultado pode ser visto pelo arquivo HTML
+3. O programa deve ser mantido aberto para que ele continue fazendo eu trabalho.
 
-4. Pressione F5 caso nem todos os endereços apareçam
+4. O resultado pode ser visto pelo arquivo HTML.
+
+5. Pressione F5 caso nem todos os endereços apareçam.
 
 ### Autor
 
